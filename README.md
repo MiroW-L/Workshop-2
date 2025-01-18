@@ -8,3 +8,6 @@ Leo Demos Github, I’ve made an account but haven’t used it yet. Looking into
 What is computational arts? Art and Computation by Miguel Carvalhais (book)/Art in which computation is pivotal and meaningful/Not limited to digital computers/Creating systems and environments rather than artifacts/Philip Galanter/Generative art is “as old as art itself”/Creating systems and algorithms (rather than artifacts which are secondary)/Ada Lovelace/Grant D. Taylor - when the machine made art: the troubled history of computer art/“Why was computer art so heavily maligned?”/Interdisciplinary and the ‘artist-programmer’ - different way of working - too scientific or too artsy to fit in/Frieder Nake/using pseudorandomness to let the computer to decide/the plotter/Vera Molner (the balance of chaos and harmony that humans are all in search of)/John F .Simon Jr/notion of unknowable/beyond humanness
 
 <img width="590" alt="Screenshot 2025-01-16 at 11 30 57 AM" src="https://github.com/user-attachments/assets/9b519955-7398-4dda-adf4-48bfe67ecfb8" />
+
+## Working on Workshop 2 - (18/1/25)
+Okay so setInterval and setCounter are really cool ideas and I really love to see the possibilities of using such.

@@ -23,5 +23,5 @@ https://github.com/processing/processing-docs/issues/647
 I watched the video on workshop 3 and I used the information I learnt from there to try work an image into the background of this idea and it worked after some time of moving around loadImage, img, and the resize command to get my image to fit in the background while the blooddrops fell on it. I also had an issue with getting p5.js to preview my work, an error code kept popping up and I tried to look up how to resolve it but it looked really complicated on the link I found:
 - https://github.com/hilongjw/vue-lazyload/issues/229
 I am glad the github community had my back but jeez this was a headache to comprehend, and I don't want to download more software so I just used VS Code to get my project to run on a website properly.
-
+- Okay so the webpage isn't running which is very frustrating for me, I'm looking into using some software called vue-lazyload (https://github.com/hilongjw/vue-lazyload) to be able to make my image work. I think I will come back to finishing this once I complete my other workshops. It's frustrating because the code works on the server on VS Code so I do not understand why it doesn't on p5.js
 

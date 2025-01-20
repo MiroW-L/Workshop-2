@@ -19,4 +19,9 @@ https://github.com/processing/processing-docs/issues/647
 - Okay I managed to get it working and I've successfully made my blood droplets, now I'm going to change the background to a tshirt (maybe bloody) and I may add a title screen so that it's like a story (like the screen saying wham and then showing the bloody shirt insinuating being hit in the nose)
 - Ultimately I rran out of time trying to learn how to make a background however I am really proud of what I've made and I might return back to this at some point.
 
+## Adding a picture to the background - (21/1/25)
+I watched the video on workshop 3 and I used the information I learnt from there to try work an image into the background of this idea and it worked after some time of moving around loadImage, img, and the resize command to get my image to fit in the background while the blooddrops fell on it. I also had an issue with getting p5.js to preview my work, an error code kept popping up and I tried to look up how to resolve it but it looked really complicated on the link I found:
+- https://github.com/hilongjw/vue-lazyload/issues/229
+I am glad the github community had my back but jeez this was a headache to comprehend, and I don't want to download more software so I just used VS Code to get my project to run on a website properly.
+
 

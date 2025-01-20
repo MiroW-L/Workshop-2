@@ -7,5 +7,7 @@ This message keeps popping up when I'm trying to run my script on p5.js and I do
 Also it seems like VS Code is not showing me previews any more so I asked about that too:
 <img width="1512" alt="Screenshot 2025-01-20 at 12 47 23 PM" src="https://github.com/user-attachments/assets/9ef20191-532a-4ba4-a870-5cf352f8f182" />
 Waiting now to hear back from Leo
+Also I found this question by searching the error online and I was pleased to see that at least it wasn't just me having this issue:
+https://github.com/processing/processing-docs/issues/647
 
 

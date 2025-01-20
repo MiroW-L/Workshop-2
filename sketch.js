@@ -1,12 +1,12 @@
 let counter = 0;
 let countInterval = setInterval(makeBlood,
-1000);
+2000);
 
 function setup () {
-createCanvas (400, 400); 
+createCanvas (600, 600); 
   background (220) ;
 
-setTimeout (makeBlood, 2000, random(0,width), random(0,height), 30, color(255,0,0));
+setTimeout (makeBlood, 2000, random(0,width), random(0,height), 30, color(255,1,0));
   
 }
 
@@ -14,18 +14,18 @@ function makeBlood(xPos, yPos, size, colour) {
   fill(colour);
   noStroke () ;
   circle(xPos, yPos, size);
-  triangle(xPos,yPos,xPos+25,yPos-20,xPos+50,yPos);
+  triangle(xPos+13, yPos-4, xPos-14, yPos+7, xPos-4, yPos-91);
+  //  circle(xPos-20, yPos-40, size-12);
+  //  circle(xPos, yPos+24, size-19);
   counter++;
     setTimeout (makeBlood, 2000, random(0,width), random(0,height), 30, color(255,0,0));
-  if (counter >5){
+  if (counter > 5){
 clearInterval (countInterval);
 }
     
 function mousePressed () {
 set.Interval (makeBlood, 1000);
-
- }
-rect(10,10,10,10)
+  
 }
 
 // function makeBlood(xPos,random [width], yPos(random (height), size(), colour(); {
@@ -41,4 +41,5 @@ rect(10,10,10,10)
 // nostroke;
 // rect(xPos, yPos, 50, stories);
 // triangle(xPos, yPos, xPos + 25, yPos - 20, xPos + 50, yPos) ; 
-  // }
+  
+}

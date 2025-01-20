@@ -13,7 +13,7 @@ background (220) ;
 setTimeout (makeBlood, 2000, random(0,width), random(0,height), 30, color(255,1,0));
 // setTimeout (makeBlood, 2000, random(0,width), random(0,height), 30, color(255,1,0));
  
-image(img,-250,-70);
+image(img,0,0);
 img.resize(1,1);
 }
 

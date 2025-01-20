@@ -1,16 +1,29 @@
+let img; 
+
+function preload(){
+  img = loadImage('images/Minutemen.png');
+}
+
 let counter = 0;
-let countInterval = setInterval(makeBlood,
-2000);
+let countInterval = setInterval(makeBlood,4000);
 
 function setup () {
 createCanvas (600, 600); 
-  background (220) ;
-
+background (220) ;
 setTimeout (makeBlood, 2000, random(0,width), random(0,height), 30, color(255,1,0));
-  
+// setTimeout (makeBlood, 2000, random(0,width), random(0,height), 30, color(255,1,0));
+ 
+image(img,-250,-70);
+img.resize(1,1);
 }
 
+// function draw(){
+ 
+ 
+// }
+
 function makeBlood(xPos, yPos, size, colour) {
+  push();
   fill(colour);
   noStroke () ;
   circle(xPos, yPos, size);
@@ -19,14 +32,17 @@ function makeBlood(xPos, yPos, size, colour) {
   //  circle(xPos, yPos+24, size-19);
   counter++;
     setTimeout (makeBlood, 2000, random(0,width), random(0,height), 30, color(255,0,0));
+    pop();
   if (counter > 5){
 clearInterval (countInterval);
+
 }
     
 function mousePressed () {
 set.Interval (makeBlood, 1000);
-  
-}
+
+} 
+
 
 // function makeBlood(xPos,random [width], yPos(random (height), size(), colour(); {
 // function makeRedSquare(){

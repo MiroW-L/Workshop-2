@@ -15,5 +15,6 @@ Okay so setInterval and setCounter are really cool ideas and I really love to se
 https://github.com/processing/processing-docs/issues/647
 
 - Okay I managed to get it working and I've successfully made my blood droplets, now I'm going to change the background to a tshirt (maybe bloody) and I may add a title screen so that it's like a story (like the screen saying wham and then showing the bloody shirt insinuating being hit in the nose)
+- Ultimately I rran out of time trying to learn how to make a background however I am really proud of what I've made and I might return back to this at some point.
 
 

@@ -24,4 +24,5 @@ I watched the video on workshop 3 and I used the information I learnt from there
 - https://github.com/hilongjw/vue-lazyload/issues/229
 I am glad the github community had my back but jeez this was a headache to comprehend, and I don't want to download more software so I just used VS Code to get my project to run on a website properly.
 - Okay so the webpage isn't running which is very frustrating for me, I'm looking into using some software called vue-lazyload (https://github.com/hilongjw/vue-lazyload) to be able to make my image work. I think I will come back to finishing this once I complete my other workshops. It's frustrating because the code works on the server on VS Code so I do not understand why it doesn't on p5.js
+- I went throught and read on Canvas the quick edits I need to make to my "index" file so trying that
 

@@ -2,7 +2,8 @@
 
 https://mirow-l.github.io/Workshop-2/
 - this doesn't work
-https://editor.p5js.org/mirowrightsonlyons/sketches/MqdUFs3F8
+
+### https://editor.p5js.org/mirowrightsonlyons/sketches/MqdUFs3F8
 - copy and paste the code from here and put it into VS Code or VS Codium and it should work
 
 ## Working on Workshop 2 - (20/1/25)

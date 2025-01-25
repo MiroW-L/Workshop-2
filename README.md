@@ -1,10 +1,6 @@
 # Workshop-2
 
 https://mirow-l.github.io/Workshop-2/
-- this doesn't work
-
-### https://editor.p5js.org/mirowrightsonlyons/sketches/MqdUFs3F8
-- copy and paste the code from here and put it into VS Code or VS Codium and it should work
 
 ## Working on Workshop 2 - (20/1/25)
 Okay so setInterval and setCounter are really cool ideas and I really love to see the possibilities of using such. I've been trying to utilise them in the way that Leo has done in the example, and I am trying to combine both however I keep running into issues. My idea was inspied by messing around with the squares that Leo had generated as an example and I had figured out how to round their corners so they looked like cirles, which in turn look like drops of blood. My idea was to make a background that looked like a pavement and the droplets to appear on it a lá someone bleeding on the sidewalk. Kind of grim but it was inspired by my own personal experiences of having severe bloody nose attack a year or so ago.
@@ -30,3 +26,9 @@ I am glad the github community had my back but jeez this was a headache to compr
 - Okay so the webpage isn't running which is very frustrating for me, I'm looking into using some software called vue-lazyload (https://github.com/hilongjw/vue-lazyload) to be able to make my image work. I think I will come back to finishing this once I complete my other workshops. It's frustrating because the code works on the server on VS Code so I do not understand why it doesn't on p5.js
 - I went throught and read on Canvas the quick edits I need to make to my "index" file so trying that
 
+## Fixing things (25/1/25)
+- I fixed Workshop 3 so now I will fix this error with the image by uploading the files onto here.
+- I had also asked my mutal friend Ghen about it and this was his reply
+<img width="691" alt="Screenshot 2025-01-24 at 2 10 48 PM" src="https://github.com/user-attachments/assets/ca212984-732c-4c6e-b518-e51c53e910f5" />
+
+## Now my link works!!
